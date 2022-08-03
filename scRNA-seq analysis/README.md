@@ -10,7 +10,7 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 **Combined_filtered_GO** - compiled DE data filtered for p-adjusted <.05 and circuit connectivity related GO terms (this file was used for all of analysis)
 
-**CombinedAll** - compiled DE data filtered for p-adjusted <.05 but no GO filters
+**CombinedAll** - compiled DE data filtered for p-adjusted <.05. No filtered for Go terms
 
 **DE Gene** - list of all DE genes, separated by those relevant to glutamatergic and GABAergic analysis
 
