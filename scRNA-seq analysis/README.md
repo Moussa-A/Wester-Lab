@@ -1,12 +1,12 @@
-**WesterLab scRNA_seq analysis**
+# WesterLab scRNA_seq analysis
 
 Tools for downstream analysis of scRNA-seq differential expression data
 
 Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 https://doi.org/10.1101/2022.06.14.496156
 
-**Jupyter notebook for analysis** - scRNA-seq_tools.ipynb 
+### Jupyter notebook for analysis - scRNA-seq_tools.ipynb 
 
-**Csv files:**
+### **Csv files:**
 
 **Combined_filtered_GO** - compiled DE data filtered for p-adjusted <.05 and circuit connectivity related GO terms (this file was used for all of analysis)
 
@@ -18,4 +18,4 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 **SFARI** - list of SFARI genes and associated ASD risk
 
-Note - the csv files needed to reproduce our analysis are listed within the Python code in "Morpheus creator testing terminal". Download the appropriate csv files and change the location in our code to the your desired folder
+Note - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files and change the location in our code to your desired folder
