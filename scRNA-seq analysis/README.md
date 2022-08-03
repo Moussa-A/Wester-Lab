@@ -4,6 +4,8 @@ Tools for downstream analysis of scRNA-seq differential expression data
 
 Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 https://doi.org/10.1101/2022.06.14.496156
 
+**Jupyter notebook for analysis** - scRNA-seq_tools.ipynb 
+
 **Csv files:**
 
 **Combined_filtered_GO** - compiled DE data filtered for p-adjusted <.05 and circuit connectivity related GO terms (this file was used for all of analysis)
