@@ -10,12 +10,12 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 **Combined_filtered_GO** - compiled DE data filtered for p-adjusted <.05 and circuit connectivity related GO terms (this file was used for all of analysis)
 
-**CombinedAll** - compiled DE data filtered for p-adjusted <.05. No filtered for Go terms
+**CombinedAll** - compiled DE data filtered for p-adjusted <.05. Not filtered for GO terms
 
 **DE Gene** - list of all DE genes, separated by those relevant to glutamatergic and GABAergic analysis
 
 **Narrowed condition list** - list of conditions and what we label them as (for SFARI conditions, labels remain unchanged)
 
-**SFARI** - list of SFARI genes and associated ASD risk
+**SFARI** - list of SFARI genes and associated ASD risk (downloaded from 2021 SFARI Human Gene module)
 
 Note - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files and change the location in our code to your desired folder
