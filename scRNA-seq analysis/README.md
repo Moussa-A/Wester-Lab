@@ -6,7 +6,7 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 ### Jupyter notebook for analysis - scRNA-seq_tools.ipynb 
 
-Includes annotated code and an organized testing terminal to run analyses
+Includes annotated code and an organized testing and saving terminal to perform analyses
 
 ### **Csv files:**
 
