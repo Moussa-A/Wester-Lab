@@ -6,6 +6,8 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 ### Jupyter notebook for analysis - scRNA-seq_tools.ipynb 
 
+Includes annotated code and an organized testing terminal to run analyses
+
 ### **Csv files:**
 
 **Combined_filtered_GO** - compiled DE data filtered for p-adjusted <.05 and circuit connectivity related GO terms (this file was used for all of analysis)
@@ -18,4 +20,4 @@ Subroutines created by Anthony Moussa and presented in Moussa and Wester, 2022 h
 
 **SFARI** - list of SFARI genes and associated ASD risk (downloaded from 2021 SFARI Human Gene module)
 
-Note - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files and change the directory locations in our code to your desired folders
+Note - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files (i.e. every one except CombinedAll) and change the directory locations in our code to your desired folders
