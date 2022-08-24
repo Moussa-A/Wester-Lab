@@ -3,4 +3,4 @@ Code from the Wester Lab at The Ohio State University. We study the organization
 
 Relevant projects - Moussa AJ, Wester JC (under review) Cell-type specific transcriptomic signatures of neocortical circuit organization and their relevance to autism. Frontiers in Neural Circuits. bioRxiv 2022.06.14.496156; doi: https://doi.org/10.1101/2022.06.14.496156
 
-Review README file in project folders for in-depth descriptions of code, data, and instructions to perform analysis pertaining to project.
+Review README file in folders for in-depth descriptions of code, data, and instructions to perform analysis pertaining to project.
