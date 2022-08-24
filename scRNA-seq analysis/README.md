@@ -20,4 +20,4 @@ Includes annotated code and an organized testing terminal to run analyses
 
 **SFARI** - list of SFARI genes and associated ASD risk (downloaded from 2021 SFARI Human Gene module)
 
-Note - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files (i.e. every one except CombinedAll) and change the directory locations in our code to your desired folders
+Instructions to use code for performing analysis - the csv files needed to reproduce our analysis are listed in the Jupyter notebook under "Morpheus creator testing terminal". Download the appropriate csv files (i.e. every one except CombinedAll) and change the directory locations in our code to your desired folders. Then execute the code in the terminal and it will begin allowing user inputs to perform the analysis. Save your analyzed data using the saving terminal for upload into matrix visualization software like Morpheus by the Broad Institute.
